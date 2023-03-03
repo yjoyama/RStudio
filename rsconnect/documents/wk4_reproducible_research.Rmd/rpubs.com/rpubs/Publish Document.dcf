@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1010240/99aa030d709b46dea50abd0e0b11c888
+bundleId: https://api.rpubs.com/api/v1/document/1010240/99aa030d709b46dea50abd0e0b11c888
+url: http://rpubs.com/YJay/1010240/edit
+when: 1677753560.9967
+lastSyncTime: 1677753560.99671

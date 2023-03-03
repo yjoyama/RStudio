@@ -1,8 +1,10 @@
 ---
-title: "Tornadoes and floods cause most health and environmental damage in the United States"
+title: Tornadoes and floods cause most health and environmental damage in the United
+  States
 author: "Yuki Joyama"
 date: "2023-02-24"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
